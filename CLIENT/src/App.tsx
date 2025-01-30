@@ -1,10 +1,9 @@
-// src/renderer/App.tsx
 import React from 'react';
 
 const App: React.FC = () => {
   return (
     <div>
-      <h1>Hello from App!</h1>
+      <h1>Hello Electron + React + TypeScript!</h1>
     </div>
   );
 };
